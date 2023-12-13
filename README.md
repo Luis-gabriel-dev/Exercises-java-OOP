@@ -1,3 +1,3 @@
-# ExerciciosEmJavaPOO
+# Object Oriented Programming in Java
 
-Exercicios tirados do curso java completo, programação orientada a objetos
+The exercises are based on the complete Java course, object-oriented programming
